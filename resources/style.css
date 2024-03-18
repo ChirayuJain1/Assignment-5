@@ -1,0 +1,74 @@
+/*Index Page*/
+
+body{
+    margin: 0px;
+}
+
+.menu ul{
+    border-top: 4px solid black;
+    border-bottom: 4px solid black;
+    list-style-type:none;
+    background-color: rgb(9, 5, 255);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.menu a{
+    color: snow;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    font-weight: bold;
+}
+
+.menu a:hover{
+    background-color: rgba(0, 0, 0, 0.377);
+}
+
+.menu li{
+    float: left;
+}
+
+h1{
+    margin: 15px;
+    
+} 
+
+.css-question{
+    margin: 15px;
+  
+}
+
+.js-question{
+    margin: 15px;
+}
+
+
+/*Page Two*/
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+}
+
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+
+th {
+    background-color: #3498db;
+    color: #fff;
+}
+
+
+caption {
+    caption-side: top;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
